@@ -1,4 +1,13 @@
-# Class 12 - Inheritence
+''' Class 12 - Inheritence
+Write code that represents a zoo
+A zoo has cages
+Each cage has different kind and number of animals
+Each animal has type, number of legs, skin color
+Create a zoo with 3 cages for Bears, Snakes and Tigers
+Zoo can return list of all animals with X number of legs.
+Zoo can return list of all animals with Y color
+'''
+
 
 class Animal(object):
     def __init__(self, animal_type, legs, color):
