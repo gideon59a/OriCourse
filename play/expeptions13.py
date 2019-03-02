@@ -1,4 +1,10 @@
-# Exceptions lesson 13
+''' Exceptions lesson 13
+Ask user for sentence: #   this is a sentence
+Ask user for number:   #  2
+# a  (is printed, since it's index 2)
+- catch exception for non-number
+- catch exception for bad index
+ '''
 
 while True:
     sent = input ("Enter a sentance: ")
