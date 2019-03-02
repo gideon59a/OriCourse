@@ -1,5 +1,4 @@
-# Class 12 - Inheritence (test)
-# Class 12 - Inheritence (test)
+# Class 12 - Inheritence
 
 class Animal(object):
     def __init__(self, animal_type, legs, color):
